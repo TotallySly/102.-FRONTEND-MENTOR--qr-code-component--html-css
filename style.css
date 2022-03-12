@@ -5,7 +5,9 @@
 }
 
 body {
+    background-color: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
+    font-size: 15px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -13,6 +15,27 @@ body {
     height: 100vh;
     overflow: hidden;
     margin: 0;
+}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 20%;
+    border-radius: 5%;
+}
+
+.container img {
+    margin-top: 25px;
+    width: 90%;
+    border-radius: 5%;
+}
+
+.container h1,
+p {
+    text-align: center;
 }
 
 .attribution {
