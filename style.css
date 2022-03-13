@@ -15,6 +15,7 @@ body {
     height: 100vh;
     overflow: hidden;
     margin: 0;
+    padding: 0;
 }
 
 .container {
@@ -23,7 +24,7 @@ body {
     align-items: center;
     justify-content: center;
     background-color: hsl(0, 0%, 100%);
-    width: 75%;
+    width: 85%;
     border-radius: 5%;
 }
 
@@ -31,4 +32,30 @@ img {
     border-radius: 5%;
     width: 90%;
     margin-top: 5%;
+}
+
+.heading--box {
+    width: 95%;
+}
+
+.heading--box h2 {
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    text-align: center;
+    margin: 20px 6px 5px;
+}
+
+.text--box {
+    width: 85%;
+}
+
+.text--box p {
+    font-weight: 400;
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+    margin: 10px 6px 20px;
+}
+
+.attribution {
+    font-size: 8px;
 }
