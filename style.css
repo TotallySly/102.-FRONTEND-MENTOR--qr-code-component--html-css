@@ -59,3 +59,51 @@ img {
 .attribution {
     font-size: 8px;
 }
+
+@media (min-width: 425px) {
+    .container {
+        width: 80%;
+    }
+}
+
+@media (min-width: 725px) {
+    .container {
+        width: 50%;
+    }
+
+    .heading--box {
+        width: 70%;
+    }
+
+    .text--box {
+        width: 70%;
+    }
+}
+
+@media (min-width: 1024px) {
+    .container {
+        width: 30%;
+    }
+
+    .heading--box {
+        width: 90%;
+    }
+
+    .text--box {
+        width: 90%;
+    }
+}
+
+@media (min-width: 1440px) {
+    .container {
+        width: 25%;
+    }
+
+    .heading--box {
+        width: 75%;
+    }
+
+    .text--box {
+        width: 75%;
+    }
+}
