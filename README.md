@@ -28,7 +28,7 @@ I have added a snippet on what my solution would look like on various devices. T
 ### Links
 
 -   Solution URL: [GitHub](https://github.com/TotallySly/frontend--mentor--qr--code--challenge)
--   Live Site URL: [Frontend Mentor Live Site](https://totallysly.github.io/frontend--mentor--qr--code--challenge/)
+-   Live Site URL: [Frontend Mentor -- QR Code](https://totallysly.github.io/frontend--mentor--qr--code--challenge/)
 
 ## My process
 
@@ -61,7 +61,7 @@ Media Queries! I guess once I have developed a better understanding of the diffe
 
 ## Author
 
--   Website - [Add your name here](https://www.your-site.com) -- A Future Project
+-   Website - [COMING SOON](https://www.your-site.com) -- A Future Project
 -   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/TotallySly)
 -   Twitter - [@Dizzy_Sloth](https://www.twitter.com/Dizzy_Sloth)
 
