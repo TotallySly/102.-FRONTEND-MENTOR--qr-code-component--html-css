@@ -28,7 +28,7 @@ I have added a snippet on what my solution would look like on various devices. T
 ### Links
 
 -   Solution URL: [GitHub](https://github.com/TotallySly/frontend--mentor--qr--code--challenge)
--   Live Site URL: [Frontend Mentor -- QR Code](https://totallysly.github.io/frontend--mentor--qr--code--challenge/)
+-   Live Site URL: [Frontend Mentor -- QR Code](https://totallysly.github.io/qr-code-component--frontend-mentor--html-css/)
 
 ## My process
 
@@ -37,7 +37,7 @@ I have added a snippet on what my solution would look like on various devices. T
 -   Semantic HTML5 markup
 -   HTML 5
 -   CSS custom properties
--   Flexbox
+-   Flexbox.
 -   Mobile-first workflow
 
 ### What I learned
@@ -62,7 +62,7 @@ Media Queries! I guess once I have developed a better understanding of the diffe
 ## Author
 
 -   Website - [COMING SOON](https://www.your-site.com) -- A Future Project
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/TotallySly)
+-   Frontend Mentor - [@TotallySly](https://www.frontendmentor.io/profile/TotallySly)
 -   Twitter - [@Dizzy_Sloth](https://www.twitter.com/Dizzy_Sloth)
 
 ## Acknowledgments
